@@ -12,6 +12,12 @@ This guide serves to bridge the gap between actuarial theory and its practical a
    :maxdepth: 2
    :caption: Contents:
 
+   introduction
+   actuarial_department
+   data_sources
+   open_source
+   version_control
+   library_testing
 
 
 Indices and tables
